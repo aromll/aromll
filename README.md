@@ -1,4 +1,4 @@
-# Hi there, I'm aromll 👋
+# Hi there, I'm Amal krishna mu 👋
 
 I'm an AI and Machine Learning Developer passionate about building intelligent systems that make a real impact.
 
