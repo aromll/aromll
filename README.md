@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm aromll 👋
+
+I'm an AI and Machine Learning Developer passionate about building intelligent systems that make a real impact.
+
+## 🛠️ Skills
+- **Languages & Frameworks:** Python, TensorFlow, PyTorch, Keras, scikit-learn, OpenCV
+
+## 🚀 Projects
+- **Emotion Detection using AI**  
+  Completed an advanced project in emotion detection leveraging deep learning techniques.  
+  _(Repository coming soon—stay tuned!)_
+
+## 📈 What I Do
+- Develop, train, and deploy machine learning models
+- Work with cutting-edge AI frameworks and libraries
+- Explore new trends in artificial intelligence and computer vision
 
 <!--
-**aromll/aromll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Optionally add social links or a fun fact!
+[LinkedIn](#) | [Twitter](#) | [Website](#)
 -->
+
+---
+
+Thanks for visiting my profile!  
+Let's connect and build something amazing. 🚀
